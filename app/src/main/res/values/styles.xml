@@ -1,0 +1,16 @@
+<resources>
+    <style name="AppTheme" parent="@android:style/Theme.Holo.Light.DarkActionBar">
+        <item name="android:actionBarStyle">@style/TargetActionBar</item>
+    </style>
+    <style name="TargetActionBar"
+        parent="@android:style/Widget.Holo.Light.ActionBar.Solid.Inverse">
+        <item name="android:background">@drawable/actionbar_color</item>
+    </style>
+    <style name="DealsAisleButtonStyle">
+        <item name="android:layout_width">30dp</item>
+        <item name="android:layout_height">30dp</item>
+        <item name="android:background">@drawable/circle</item>
+        <item name="android:layout_marginLeft">5dp</item>
+        <item name="android:textColor">@drawable/red</item>/>
+    </style>
+</resources>

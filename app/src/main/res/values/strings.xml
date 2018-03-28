@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Deal Browser</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="product_image_content_description">Product Image</string>
+    <string name="add_to_cart">Add to Cart</string>
+    <string name="add_to_list">Add to List</string>
+    <string name="regular_price">Reg:</string>
+    <string name="ship_text_label">ship</string>
+    <string name="or_text_lable">or</string>
+</resources>
